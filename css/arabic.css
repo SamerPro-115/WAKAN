@@ -1,0 +1,180 @@
+.arabic-text {
+    font-size: 4rem !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.arabic-about {
+    margin-right: 15px;
+}
+
+.arabic-who-are-we {
+    width: 100%;
+    text-align: center;
+    height: 160px;
+    line-height: 0.9;
+}
+
+.arabic-about-desc {
+    font-size: 1.7rem;
+}
+
+.arabic-text-height {
+       min-height: 75px;
+    padding-top: 10px;
+}
+
+.arabic-title-wrapper-el-1{
+width: 50%;
+text-align: center
+}
+
+.arabic-title-wrapper-el-2{
+width: 50%;
+}
+.arabic-work-plan-margin{
+    margin-right: 100px;
+}
+.arabic-work-plan-height{
+    height: 165px;
+}
+.arabic-work-container {
+    margin-right: 20px;
+}
+.arabic-buttons-wrapper-have--margin{
+    margin-top: 2em !important;
+}
+.arabic-nav-bottom{
+    left: 50%;
+}
+.arabic-loop-text{
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.arabic-text-line-block{
+    left: 0;
+}
+.arabic-drop-menu-links-wrapper{
+        order: 1;
+}
+
+.arabic-text-align-right{
+    text-align: right !important;
+    margin-right: 20px;
+}
+
+.arabic-partner-love{
+        margin-right: 130px;
+}
+.arabic-partner-love-desc{
+    margin-left: 50px;
+}
+.arabic-works-page-slogan{
+        margin-top: 15px;
+    margin-bottom: -10px;
+}
+.arabic-project-name{
+    line-height: 1.3 !important;
+}
+
+.arabic-first-line{
+display: flex ;
+    justify-content: flex-end;
+
+}
+.arabic-heading-text-animation-wrapper{
+    flex-flow: nowrap;
+}
+.arabic-our-team{
+    margin-right: 80px;
+}
+.arabic-service-title{
+    line-height: 1.4;
+}
+
+@media screen and (max-width: 1024px){
+    .arabic-our-team .animation-text{
+    font-size: 8rem;
+}
+} 
+
+@media screen and (max-width: 992px) {
+    .arabic-loop-wrapper{
+    height: 215px;
+    }
+    .arabic-partner-love{
+        margin-right: 80px;
+}
+.arabic-our-team{
+    margin-right: 40px;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+
+    .arabic-text {
+        font-size: 3.5rem !important;
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .arabic-who-are-we {
+     height: 120px;
+}
+.arabic-title-wrapper-el-2 {
+    width: 100%;
+    padding-left: 0;
+}
+.arabic-title-wrapper-el-1{
+width: 100%;
+}
+
+.arabic-about-desc {
+    font-size: 1.3rem;
+}
+.arabic-work-plan-margin{
+    margin-right: 0px;
+}
+
+.arabic-loop-wrapper{
+    height: 125px;;
+    }
+        .arabic-partner-love{
+        margin-right: 0;
+}
+.arabic-partner-love-desc{
+    margin-left: 0;
+}
+.arabic-our-team{
+    margin-right: 0;
+}
+.arabic-our-team .animation-text {
+    font-size: 5rem;
+}
+
+}
+
+
+@media screen and (max-width: 568px) {
+
+    .arabic-text {
+        font-size: 3rem !important;
+        margin-top: 7px;
+        margin-bottom: 7px;
+    }
+    .arabic-who-are-we {
+   height: 80px;
+        font-size: 4.7rem;
+}
+.arabic-text-line-block{
+    left: unset;
+}
+.arabic-drop-menu-links-wrapper{
+    direction: rtl;
+    width: 100%;
+}
+.arabic-drop-menu-links-wrapper{
+    order: 0
+}
+}
